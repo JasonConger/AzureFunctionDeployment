@@ -4,4 +4,4 @@ The master branch contains a generic version of the deployment template, tailore
 
 See other branches for more specific, working examples.  
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsebastus%2FAzureFunctionDeployment%2Fmaster%2FazureDeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJasonConger%2FAzureFunctionDeployment%2Ftest%2FazureDeploy.json)
